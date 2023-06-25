@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wood-records/static/css/main.d459c84a.css",
+    "main.js": "/wood-records/static/js/main.e04748ef.js",
+    "static/js/787.9255e9c1.chunk.js": "/wood-records/static/js/787.9255e9c1.chunk.js",
+    "index.html": "/wood-records/index.html",
+    "main.d459c84a.css.map": "/wood-records/static/css/main.d459c84a.css.map",
+    "main.e04748ef.js.map": "/wood-records/static/js/main.e04748ef.js.map",
+    "787.9255e9c1.chunk.js.map": "/wood-records/static/js/787.9255e9c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d459c84a.css",
+    "static/js/main.e04748ef.js"
+  ]
+}
