@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/wood-records/static/css/main.3d25bddd.css",
-    "main.js": "/wood-records/static/js/main.e04748ef.js",
-    "static/js/787.9255e9c1.chunk.js": "/wood-records/static/js/787.9255e9c1.chunk.js",
-    "index.html": "/wood-records/index.html",
-    "main.3d25bddd.css.map": "/wood-records/static/css/main.3d25bddd.css.map",
-    "main.e04748ef.js.map": "/wood-records/static/js/main.e04748ef.js.map",
-    "787.9255e9c1.chunk.js.map": "/wood-records/static/js/787.9255e9c1.chunk.js.map"
+    "main.css": "/static/css/main.a5c56681.css",
+    "main.js": "/static/js/main.9fb89678.js",
+    "static/js/453.272fbd74.chunk.js": "/static/js/453.272fbd74.chunk.js",
+    "static/media/studio-control-room.jpg": "/static/media/studio-control-room.8b963d2d5d18cce15494.jpg",
+    "index.html": "/index.html",
+    "main.a5c56681.css.map": "/static/css/main.a5c56681.css.map",
+    "main.9fb89678.js.map": "/static/js/main.9fb89678.js.map",
+    "453.272fbd74.chunk.js.map": "/static/js/453.272fbd74.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d25bddd.css",
-    "static/js/main.e04748ef.js"
+    "static/css/main.a5c56681.css",
+    "static/js/main.9fb89678.js"
   ]
 }
